@@ -1,0 +1,13 @@
+﻿  class lab 11.cpp
+C:\Users\1\source\repos\class lab 11\class lab 11\task_3.h(72,11): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\1\source\repos\class lab 11\class lab 11\task_4.h(31,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\class lab 11\class lab 11\task_5.h(30,23): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  class lab 11.vcxproj -> C:\Users\1\source\repos\class lab 11\x64\Debug\class lab 11.exe
